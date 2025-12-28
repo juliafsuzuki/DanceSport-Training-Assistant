@@ -7,12 +7,12 @@ Multi-agent AI system for DanceSport coaching and progress tracking.
 
 ## 🎯 Current Version: Kaggle Notebook
 
-An AI-powered dance coach that runs in Kaggle notebooks with:
-- Progress analysis
-- Personalized practice routines
-- AI-generated coaching comments
-- Q&A system
-- Dance comparisons
+The code in Kaggle notebook will demonstrate 5 features:
+📊 Progress Analysis - AI analyzes your dance practice data
+🏃 Practice Routine - Generates a 30-minute Cha Cha routine
+✍️ AI Comments - Creates professional coaching feedback
+💬 Q&A Coach - Answers DanceSport questions
+📚 Dance Comparison - Compares Cha Cha vs Rumba
 
 ## 🚀 Quick Start
 
