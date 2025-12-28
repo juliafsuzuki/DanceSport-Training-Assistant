@@ -62,9 +62,9 @@ For educational purposes.
 - ❌ Personal practice data
 
 **Instead**: Add a `.gitignore` file:
-```
 -  .gitignore
 - .env
 - secrets.txt
 - *_secret*
 - config.py
+```
