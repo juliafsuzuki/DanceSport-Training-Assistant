@@ -63,8 +63,8 @@ For educational purposes.
 
 **Instead**: Add a `.gitignore` file:
 ```
-# .gitignore
-.env
-secrets.txt
-*_secret*
-config.py
+-  .gitignore
+- .env
+- secrets.txt
+- *_secret*
+- config.py
