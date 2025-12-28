@@ -61,10 +61,9 @@ For educational purposes.
 - ❌ Any secret credentials
 - ❌ Personal practice data
 
-**Instead**: Add a `.gitignore` file:
--  .gitignore
-- .env
-- secrets.txt
-- *_secret*
-- config.py
+**Instead**: Create a `.gitignore` file, and list what to ignore such:
+.env
+secrets.txt
+*_secret*
+config.py
 ```
