@@ -1,4 +1,5 @@
-# 💃 DanceSport Training Assistant: From Single Agent to Multi-Agent AI System
+# 💃 DanceSport Training Assistant: From Single Agent to Multi-Agent AI System ❤️
+
 Building an Intelligent Personal Assistant for DanceSport Training Management
 This project demonstrates the evolution from a single AI agent to a sophisticated multi-agent AI system that manages and analyzes a comprehensive DanceSport training program in Notion.
 
@@ -33,10 +34,12 @@ This multi-agent approach enables efficient parallel processing, specialized exp
 The final phase transforms the notebook prototype into a production-ready personal assistant with:
 User Interface Development
 
+```
 Web-based dashboard for real-time progress visualization
 Interactive chat interface for natural language commands
 Mobile-responsive design for on-the-go training management
 Visual analytics and progress tracking charts
+```
 
 Production Infrastructure
 
@@ -56,74 +59,3 @@ The goal is to create a fully functional, always-accessible personal assistant t
 Tech Stack: Python, Notion API, Google Gemini 2.5 Flash API, Kaggle Notebooks (Development) → Web Framework (React/Streamlit), Cloud Services, CI/CD Pipeline (Production)
 
 
-
-
-# DanceSport-Training-Assistant
-Multi-agent AI system for my personal DanceSport training assistant
-
-# 💃 DanceSport AI Assistant
-
-Multi-agent AI system for DanceSport coaching and progress tracking.
-
-## 🎯 Current Version: Kaggle Notebook
-
-The code in Kaggle notebook will demonstrate 5 features:
-📊 Progress Analysis - AI analyzes your dance practice data
-🏃 Practice Routine - Generates a 30-minute Cha Cha routine
-✍️ AI Comments - Creates professional coaching feedback
-💬 Q&A Coach - Answers DanceSport questions
-📚 Dance Comparison - Compares Cha Cha vs Rumba
-
-## 🚀 Quick Start
-
-1. Open [Kaggle](https://www.kaggle.com) and create a new notebook
-2. Follow the setup in `GETTING_STARTED_CHECKLIST.md`
-3. Copy code from `dancesport_assistant_kaggle.py`
-4. Run and enjoy!
-
-## 📚 Documentation
-
-- **Setup Guide**: [GETTING_STARTED_CHECKLIST.md](GETTING_STARTED_CHECKLIST.md)
-- **Detailed Docs**: [KAGGLE_README.md](KAGGLE_README.md)
-- **Comparison with v60**: [VERSION_COMPARISON.md](VERSION_COMPARISON.md)
-
-## 🎓 Learning Project
-
-This project teaches:
-- Multi-agent AI architecture
-- Notion API integration
-- Google Gemini AI
-- Object-oriented programming
-
-## 🔮 Future Plans
-
-- [ ] Web interface with Streamlit
-- [ ] Additional coaching agents
-- [ ] Video analysis integration
-- [ ] Mobile app
-
-## 📄 License
-
-For educational purposes.
-
----
-
-**Built with ❤️ for dancers who code**
-```
-
----
-
-## ⚠️ Important: What NOT to Upload
-
-**Never upload** these to GitHub:
-- ❌ Your API keys
-- ❌ Your Notion token  
-- ❌ Any secret credentials
-- ❌ Personal practice data
-
-**Instead**: Create a `.gitignore` file, and list what to ignore such:
-.env
-secrets.txt
-*_secret*
-config.py
-```
