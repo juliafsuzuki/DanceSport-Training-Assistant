@@ -1,9 +1,11 @@
 # Personal Assistant ❤️💃
 
-### Development Approach: From Single Agent to Multi-Agent AI System 
+### Development Approach: From Single Agent to Multi-Agent AI System
+This project demonstrates the evolution from a single AI agent to a multi-agent AI system that analyzes a comprehensive DanceSport training program in Notion and offer insights and recommendations.
+
 
 ### Goal: Build an Intelligent Personal Assistant for DanceSport Training Management
-This project demonstrates the evolution from a single AI agent to a multi-agent AI system that analyzes a comprehensive DanceSport training program in Notion and offer insights and recommendations.
+The goal is to create a fully functional, always-accessible personal assistant that actively supports and enhances competitive DanceSport training through intelligent automation and insights, built on a foundation of responsible and ethical AI practices.
 
 ## 🎯 Phase 1: Single Agent Foundation
 Starting with a single AI agent powered by Google's Gemini 2.5 Flash (the latest AI model), the system connects to Notion via API to review and analyze training data across multiple dance styles (Cha Cha, Rumba, Swing, Bolero, and Mambo). The agent provides intelligent insights into training design, learning approaches, and progress patterns.
@@ -102,8 +104,6 @@ Personal Assistant Capabilities
 - Intelligent recommendations based on training patterns
 - Integration with calendar for practice scheduling
 ```
-
-The goal is to create a fully functional, always-accessible personal assistant that actively supports and enhances competitive DanceSport training through intelligent automation and insights, built on a foundation of responsible and ethical AI practices.
 
 Tech Stack: Python, Notion API, Google Gemini 2.5 Flash API, Kaggle Notebooks (Development) → Responsible AI Frameworks, Security Testing Tools → Web Framework (React/Streamlit), Cloud Services, CI/CD Pipeline (Production)
 
