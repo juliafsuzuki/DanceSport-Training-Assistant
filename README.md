@@ -105,7 +105,7 @@ Personal Assistant Capabilities
 - Integration with calendar for practice scheduling
 ```
 
-Tech Stack: Python, Notion API, Google Gemini 2.5 Flash API, Kaggle Notebooks (Development) → Responsible AI Frameworks, Security Testing Tools → Web Framework (React/Streamlit), Cloud Services, CI/CD Pipeline (Production)
+Tech Stack: Python, Notion API, Google Gemini 2.5 Flash API, Kaggle Notebooks (Development), Responsible AI Frameworks, Security Testing Tools, Web Framework (React/Streamlit), Cloud Services, CI/CD Pipeline (Production)
 
 💃❤️💃 
 
