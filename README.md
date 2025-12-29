@@ -1,8 +1,8 @@
 # 💃 DanceSport Training Assistant: 
 
-### From Single Agent to Multi-Agent AI System ❤️
+### ❤️ From Single Agent to Multi-Agent AI System 
 
-### Building an Intelligent Personal Assistant for DanceSport Training Management
+### ❤️ Building an Intelligent Personal Assistant for DanceSport Training Management
 This project demonstrates the evolution from a single AI agent to a sophisticated multi-agent AI system that manages and analyzes a comprehensive DanceSport training program in Notion.
 
 ## 🎯 Phase 1: Single Agent Foundation
@@ -68,6 +68,6 @@ Personal Assistant Capabilities
 
 The goal is to create a fully functional, always-accessible personal assistant that actively supports and enhances competitive DanceSport training through intelligent automation and insights.
 
-### Tech Stack: Python, Notion API, Google Gemini 2.5 Flash API, Kaggle Notebooks (Development) → Web Framework (React/Streamlit), Cloud Services, CI/CD Pipeline (Production)
+Tech Stack: Python, Notion API, Google Gemini 2.5 Flash API, Kaggle Notebooks (Development) → Web Framework (React/Streamlit), Cloud Services, CI/CD Pipeline (Production)
 
 
