@@ -1,6 +1,6 @@
 # Personal Assistant ❤️💃
 
-### Approache: From Single Agent to Multi-Agent AI System 
+### Development Approach: From Single Agent to Multi-Agent AI System 
 
 ### Goal: Build an Intelligent Personal Assistant for DanceSport Training Management
 This project demonstrates the evolution from a single AI agent to a sophisticated multi-agent AI system that manages and analyzes a comprehensive DanceSport training program in Notion.
