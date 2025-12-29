@@ -1,6 +1,7 @@
-# 💃 DanceSport Training Assistant: From Single Agent to Multi-Agent AI System ❤️
+# 💃 DanceSport Training Assistant: 
+## From Single Agent to Multi-Agent AI System ❤️
 
-Building an Intelligent Personal Assistant for DanceSport Training Management
+### Building an Intelligent Personal Assistant for DanceSport Training Management
 This project demonstrates the evolution from a single AI agent to a sophisticated multi-agent AI system that manages and analyzes a comprehensive DanceSport training program in Notion.
 
 ## 🎯 Phase 1: Single Agent Foundation
@@ -13,10 +14,10 @@ The single agent is being extended into a multi-agent AI system with two key arc
 💬 1. Personal Assistant Agent
 
 ```
-Acts as the orchestrator and user interface
-Coordinates between specialized sub-agents
-Provides conversational interaction
-Manages context and workflow
+- Acts as the orchestrator and user interface
+- Coordinates between specialized sub-agents
+- Provides conversational interaction
+- Manages context and workflow
 ```
 
 💬 2. Parallel Agent Executor
@@ -40,31 +41,32 @@ The final phase transforms the notebook prototype into a production-ready person
 User Interface Development
 
 ```
-Web-based dashboard for real-time progress visualization
-Interactive chat interface for natural language commands
-Mobile-responsive design for on-the-go training management
-Visual analytics and progress tracking charts
+- Web-based dashboard for real-time progress visualization
+- Interactive chat interface for natural language commands
+- Mobile-responsive design for on-the-go training management
+- Visual analytics and progress tracking charts
 ```
 
 Production Infrastructure
 
 ```
-Cloud deployment (AWS/GCP/Azure) for 24/7 availability
-Secure API authentication and data encryption
-Automated background tasks for progress monitoring
-Real-time notifications for training milestones and reminders
+- Cloud deployment (AWS/GCP/Azure) for 24/7 availability
+- Secure API authentication and data encryption
+- Automated background tasks for progress monitoring
+- Real-time notifications for training milestones and reminders
 ```
 
 Personal Assistant Capabilities
 
 ```
-Voice-activated training updates and queries
-Scheduled progress reports and insights
-Intelligent recommendations based on training patterns
-Integration with calendar for practice scheduling
+- Voice-activated training updates and queries
+- Scheduled progress reports and insights
+- Intelligent recommendations based on training patterns
+- Integration with calendar for practice scheduling
 ```
 
 The goal is to create a fully functional, always-accessible personal assistant that actively supports and enhances competitive DanceSport training through intelligent automation and insights.
-Tech Stack: Python, Notion API, Google Gemini 2.5 Flash API, Kaggle Notebooks (Development) → Web Framework (React/Streamlit), Cloud Services, CI/CD Pipeline (Production)
+
+### Tech Stack: Python, Notion API, Google Gemini 2.5 Flash API, Kaggle Notebooks (Development) → Web Framework (React/Streamlit), Cloud Services, CI/CD Pipeline (Production)
 
 
